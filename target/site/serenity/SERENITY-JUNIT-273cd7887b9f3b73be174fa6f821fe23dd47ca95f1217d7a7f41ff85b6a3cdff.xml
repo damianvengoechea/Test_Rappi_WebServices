@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="service test wiht rest assured" skipped="0" tests="4" time="13.48" timestamp="2020-06-11 08:18:50"><testcase name="GET SINGLE USER"/><testcase name="test PUT - UPDATE"/><testcase name="POST REGISTER - SUCCESSFUL"/></testsuite>
